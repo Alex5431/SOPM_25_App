@@ -1,4 +1,3 @@
-// DinoGame.js (React Native) – pornește automat după 1.5s
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useEffect, useRef, useState } from "react";
 import {
